@@ -1,1 +1,1 @@
-# dgsts_timesheet
+# Background Remover Script
