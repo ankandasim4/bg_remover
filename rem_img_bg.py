@@ -2,6 +2,7 @@ import os
 from rembg import remove
 from PIL import Image
 
+# this is the standalone python file to remove background form the pictures
 # Specify the source and output directories
 source_folder = "static/"
 output_folder = "static/"
